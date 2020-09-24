@@ -1,0 +1,10 @@
+*.png
+*.o
+*.gcno
+*.exe
+test
+check_*
+*.gcda
+driver.c
+*.zip
+.DS_Store
