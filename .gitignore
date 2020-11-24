@@ -2,7 +2,8 @@
 *.o
 *.gcno
 *.exe
-test
+/test
+/tests
 check_*
 *.gcda
 driver.c
